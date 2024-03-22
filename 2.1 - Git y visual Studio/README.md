@@ -4,4 +4,4 @@ Descargar git: https://git-scm.com/download/win
 Descargar Visual studio Code: https://code.visualstudio.com/
 
 Tutorial de las herramientas. 
-https://youtu.be/ptZLQeAquuY
+https://youtu.be/AORilUnYrPc
